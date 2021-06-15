@@ -1,0 +1,28 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+# mogelijke lichtbronnen
+356 | -05 | -00 | +00 | station
+017 | -05 | -00 | +00 | Korenmarkt
+098 | -05 | -00 | +00 | B401
+135 | -05 | -00 | +00 | Ghelamco
+174 | -05 | -00 | +00 | Sterre
+228 | -05 | -00 | +00 | Campus
+
+# loodrechte op straatassen
+064 | -08 | -00 | +00 | [Zieklien]
+157 | -08 | -00 | +00 | [Maaltebruggestr]
+
+# verre steden
+113 | -15 | -00 | +00 | (Brussel)
+235 | -15 | -00 | +00 | (Kortrijk)
+015 | -15 | -00 | +00 | (Gent)
+
+# ISS
+283 | -15 | -00 | +00 | ISS:N
+257 | -15 | -00 | +00 | ISS:Z
+
